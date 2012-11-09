@@ -1,0 +1,12 @@
+language: Language
+project:
+  name: Silex i18n Kickstart
+index:
+  title: Home
+  description: ""
+blog:
+  title: Blog
+  description: ""
+archive:
+  title: Archive
+  description: ""
