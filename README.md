@@ -1,4 +1,8 @@
-silex-18n-kickstart
+Silex i18n Kickstart
 ===================
+The objective is to provide a kickstart helps to quickly create prototypes.
 
-A kickstart for Silex projects
+Out of the box you will found:
+  - a Silex framework application with the following services enabled: Twig, URL Generator, Session, Translation, i18n routing
+  - Twitter Bootstrap
+  - Modernizr
